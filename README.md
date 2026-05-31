@@ -1,3 +1,3 @@
-# Agent Kit Version
+# Metadata
 
-Public update-check metadata for Agent Kit. The Agent Kit source repository remains private.
+Public compatibility metadata.
